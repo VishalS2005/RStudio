@@ -64,10 +64,11 @@ The scripts in `HomeworkR` cover a wide range of statistical techniques, includi
 - **Proportion Tests (prop.test):** This function tests the null hypothesis that the proportions in several groups are the same, or that they equal specified values.
 - **Confidence Intervals (conf.int):** Confidence intervals provide a range of values that likely contain the population parameter. They offer a measure of uncertainty around the estimate.
 
-## MachineLearningProjects
-- All projects use similar format to develop RPart trees in order to predict a variable. A detailed description and analysis of Project 3 is provided below
-  - Project 1(predicting earnings) and Project 2(predicting price of clothes) were experimenting with RPart trees, 
-  - Project 3: Predicting whether a customer should receive a financial loan (1 for yes, 0 for no)
+## MachineLearningProjects 
+The `MachineLearningProjects` directory encompasses several projects that utilize a similar approach to develop RPart trees for predicting various outcomes. Below is a detailed description and analysis of Project 3. 
+- **Project 1: Predicting Earnings** This project focuses on predicting individuals' earnings using RPart trees. The objective is to explore the effectiveness of recursive partitioning in forecasting financial outcomes based on various predictors.
+- **Project 2: Predicting Price of Clothes** The second project aims to predict the price of clothing items. By experimenting with RPart trees, the project evaluates the model's accuracy and ability to capture the relationship between different attributes of clothing and their corresponding prices.
+- **Project 3: Predicting Loan Approval** The third project is dedicated to predicting whether a customer should receive a financial loan (1 for yes, 0 for no). This project serves as a more comprehensive analysis,
 
 ### Dataset Composition
 
@@ -115,7 +116,7 @@ The decision tree's enhanced performance underscores the importance of consideri
 
 ## Contributors
 Rutgers Computer Science Department
-https://www.kaggle.com/datasets/vikramamin/bank-loan-approval-lr-dt-rf-and-auc?rvi=1
+https://www.kaggle.com/datasets
 
 ## License
 GNU GENERAL PUBLIC LICENSE
